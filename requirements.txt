@@ -1,0 +1,7 @@
+networkx
+plotly
+pandas
+seaborn
+matplotlib
+voila
+ipywidgets
